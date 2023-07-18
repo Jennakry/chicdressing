@@ -1,0 +1,12 @@
+2023-07-14T19:08:46+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\MAMP\htdocs\chicdressing\wp-content\plugins\facebook-for-woocommerce\vendor\skyverge\wc-plugin-framework\woocommerce\admin\abstract-sv-wc-plugin-admin-setup-wizard.php à la ligne 26
+
+2023-07-14T19:09:01+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\MAMP\htdocs\chicdressing\wp-content\themes\ashe\inc\about\about-ashe.php à la ligne 7
+
+2023-07-14T19:09:09+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\MAMP\htdocs\chicdressing\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\ProductSummary.php à la ligne 56
+
+2023-07-14T19:10:14+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\MAMP\htdocs\chicdressing\wp-includes\Requests\src\Transport\Curl.php à la ligne 205
+
+2023-07-14T19:12:04+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\MAMP\htdocs\chicdressing\wp-includes\functions.php à la ligne 6651
+
+2023-07-14T19:18:35+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\MAMP\htdocs\chicdressing\wp-admin\includes\post.php à la ligne 2536
+
